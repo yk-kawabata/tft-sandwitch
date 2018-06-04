@@ -1,4 +1,4 @@
-アプリ名：Netone GameCenter
+アプリ名：Netone GameCenter  
 #アプリ概要
 テーマ：familydayで使用する  
 pygameを使ってゲームを作成。  
